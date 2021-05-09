@@ -25,4 +25,4 @@ Template For Summer Hacks Project Submission
       
       Team Members:Me.
       
-      Live Demo Link (Deployed website link) https://urjaswi-2655.github.io/summerhacks-Urjaswi/
+      Live Demo Link (Deployed website link): [I'm an inline-style link] (https://urjaswi-2655.github.io/summerhacks-Urjaswi/)

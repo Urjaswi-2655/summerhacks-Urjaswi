@@ -1,0 +1,203 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 55px;
+  margin-top: 10px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  margin-right: -25px;
+}
+
+.header-left a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: rgb(198, 206, 214);
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-left a:hover {
+  background-color: rgba(69, 11, 228, 0.3);
+}
+
+
+
+
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://i.pinimg.com/originals/18/62/da/1862da4b87f3b13aac24711f0f2101db.jpg);
+  background-size: cover;
+  color: rgb(77, 4, 4);
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 1;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+
+.lesson-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading h1 {
+  opacity: 1;
+  font-size: 30px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.heading p {
+  opacity: 1;
+  margin-bottom: 5px;
+}
+
+.heading1 {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.heading1 h2 {
+  font-weight: normal;
+}
+
+.lesson {
+  float: left;
+  width: 33%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+
+
+
+
+.message-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.heading h1 {
+  opacity: 1;
+  font-size: 30px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.contact-form {
+  padding-top: 100px;
+}
+
+input,textarea{
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border:1px solid #dee7ec;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: rgb(250, 245, 245);
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 0.7;
+}
+
+
+
+
+
+.footer {
+  background-color: #0ec8f1;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+

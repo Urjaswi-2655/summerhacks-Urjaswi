@@ -5,9 +5,9 @@ Template For Summer Hacks Project Submission
 Name of the Project:Urjaswi
       
 Table of Contents:1.Welcome
-                        2.About Me
-                        3.Language I am Learning.
-                        4.Contact Me.
+                  2.About Me
+                  3.Language I am Learning.
+                  4.Contact Me.
       
  About: My Personal Portfolio made in HTML&CSS.
       
@@ -26,3 +26,5 @@ Table of Contents:1.Welcome
  Team Members:Me.
  
  Website Link:https://urjaswi-2655.github.io/summerhacks-Urjaswi/
+ 
+ Resource Used: Progate HTML, CSS
